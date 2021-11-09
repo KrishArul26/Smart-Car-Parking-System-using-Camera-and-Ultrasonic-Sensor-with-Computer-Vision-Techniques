@@ -43,6 +43,10 @@
  
 5.	The toy car was moved manually
 .</p>
+
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140991586-4b0063a7-0241-4dae-962f-19b831c57980.png">
+</p> 
   
 
 
