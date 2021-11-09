@@ -32,10 +32,15 @@
 
  
 <p style= 'text-align: justify;'> 
+ 
 1.	Toy cars only used as vehicles
+ 
 2.	Two different cars were used to demonstrate the project
+ 
 3.	Just used 250 images for each category to train the model
+ 
 4.	Instead of the number plate, Pre-Defied number plate information was printed on white the paper
+ 
 5.	The toy car was moved manually
 .</p>
   
