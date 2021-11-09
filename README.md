@@ -57,7 +57,7 @@
 <h3 align="left">The process flow of this projects</h3>
 
 <p align="center">
-  <img width="1000" src="https://user-images.githubusercontent.com/74568334/141005196-51f2be35-8c6d-46bf-9233-21fb8f22687e.png">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/141005196-51f2be35-8c6d-46bf-9233-21fb8f22687e.png">
 </p> 
 
  
