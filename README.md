@@ -11,11 +11,6 @@
 <p style= 'text-align: justify;'> Home Vehicle parking system is one of the most important factors to reduce traffic and satisfy drivers. Moreover, when parking the vehicles in the apartment parking place, the driver has to open the door. So, the driver has to get out of the vehicle and open it.So the project objective is to develop a system to allow authorised vehicles in the particular apartment. Also, we used computer vision techniques and a Raspberry-Pi camera module and an ultrasonic sensor in order to make this system.</p>
 
 
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/74568334/128623886-e2144326-a462-47c9-aac2-612a97886c73.jpg">
-</p> 
- 
- 
 <h2 align="center"> Technologies Used </h2>
  
  ```
@@ -36,7 +31,13 @@
 <h3 align="left"> Project Limitations </h3>
 
  
-<p style= 'text-align: justify;'> * Three wheels were used instead of four wheels. To build a three-wheel Car, three-wheeled was to have a mounting where the third wheel could be assembled. This mount is designed based on the space available on the model car. To provide the steering, a servo motor must be fitted so that the mounting used for the steering wheel could be extended for mounting the servo motor.</p>
+<p style= 'text-align: justify;'> 
+1.	Toy cars only used as vehicles
+2.	Two different cars were used to demonstrate the project
+3.	Just used 250 images for each category to train the model
+4.	Instead of the number plate, Pre-Defied number plate information was printed on white the paper
+5.	The toy car was moved manually
+.</p>
   
 
 
