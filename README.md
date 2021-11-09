@@ -8,7 +8,7 @@
 
 <h3 align="left">Motivation </h3>
  
-<p style= 'text-align: justify;'> Home Vehicle parking system is one of the most important factors to reduce traffic and satisfy drivers. Moreover, when parking the vehicles in the apartment parking place, the driver has to open the door. So, the driver has to get out of the vehicle and open it.So the project objective is to develop a system to allow authorised vehicles in the particular apartment. Also, we used computer vision techniques and a Raspberry-Pi camera module and an ultrasonic sensor in order to make this system.</p>
+<p style= 'text-align: justify;'> Home Vehicle parking system is one of the most important factors to reduce traffic and satisfy drivers. Moreover, when parking the vehicles in the apartment parking place, the driver has to open the door. So, the driver has to get out of the vehicle and open it.So the project objective is to develop a system to allow authorised vehicles in the particular apartment. Also, we used **computer vision** techniques and a **Raspberry-Pi camera** module and an **ultrasonic sensor** in order to make this system.</p>
 
 
 <h2 align="center"> Technologies Used </h2>
@@ -35,9 +35,9 @@
  
 1.	Toy cars only used as vehicles
  
-2.	Two different cars were used to demonstrate the project
+2.	**Two different cars** were used to demonstrate the project
  
-3.	Just used 250 images for each category to train the model
+3.	Just used **250 images** for each category to train the model
  
 4.	Instead of the number plate, Pre-Defied number plate information was printed on white the paper
  
