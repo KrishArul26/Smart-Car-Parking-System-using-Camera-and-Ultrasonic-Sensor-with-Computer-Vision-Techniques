@@ -54,4 +54,12 @@
   <img width="600" src="https://user-images.githubusercontent.com/74568334/140993925-5cc30d5f-aa07-45a4-9062-8f708a73f54a.jpg">
 </p> 
 
+<h3 align="left">The process flow of this projects</h3>
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/141005196-51f2be35-8c6d-46bf-9233-21fb8f22687e.png">
+</p> 
+
+ 
+<p style= 'text-align: justify;'> The above figure illustrates the process flow of this project. First, the vehicles model, number plate, and the name of the customer who lives in the apartment are collected and stored in a CSV file. To identify whether it was a car, motorcycle or vehicle, 500 toy car images were collected and trained on the SSD mobile - net model using the GPU-4000. Also, the trained model was later uploaded on rasperryPi4. Subsequently, the ultrasonic sensor continues to work to detect and determine the distance of an object in front of the camera. If this distance is less than 10 cm, this information is published to the MQTT/Topic and To start the camera, it requests MQTT with the same topic created by the ultrasonic sensor in MQTT and receiving the message from the ultrasonic sensor. In addition, the camera takes a picture and recognises from this picture whether it is a car or a motorcycle using SSD Mobel - net. It is the licence plate information that will be extracted if the licence plate already exists on the server, then the door will be opened.</p>
 
