@@ -1,2 +1,2 @@
-# Smart-Car-Parking-System-Using-Computer-Vision-Techniques-using-Camera-with-Ultrasonic-Sensor
+# Smart Car Parking System using Camera and Ultrasonic-Sensor with Computer Vision Techniques
 Home Vehicle parking system is one of the most important factors to reduce traffic and satisfy drivers. Moreover, when parking vehicles in the apartment parking place, the driver has to open the door. So, the driver has to get out of the vehicle and open it. In this project, we have created a system for an automated vehicle parking system using computer vision techniques and a Raspberry-Pi camera module and an ultrasonic sensor.
