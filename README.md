@@ -48,10 +48,10 @@
   
 <h3 align="left">Sample Images</h3>
 
-<p align="left">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/140993929-60ec397c-79e7-489d-8dba-918315a3ae1b.jpg">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/140993931-3d867c45-cce9-402d-8c8e-8628bbf0b073.jpg">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/140993925-5cc30d5f-aa07-45a4-9062-8f708a73f54a.jpg">
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/140993929-60ec397c-79e7-489d-8dba-918315a3ae1b.jpg">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/140993931-3d867c45-cce9-402d-8c8e-8628bbf0b073.jpg">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/140993925-5cc30d5f-aa07-45a4-9062-8f708a73f54a.jpg">
 </p> 
 
 
