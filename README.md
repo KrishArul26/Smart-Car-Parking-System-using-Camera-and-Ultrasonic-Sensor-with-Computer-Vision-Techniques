@@ -1,7 +1,7 @@
 <h3 align="center"> Smart Car Parking System using Camera and Ultrasonic-Sensor with Computer Vision Techniques</h3>
 
  <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/74568334/141007223-4ee9ffa4-772c-4cf9-be17-b3ac7cc92f20.jpeg">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/141061583-71722024-ae69-4d5a-adcd-38acc77b9450.jpeg">
 </p> 
 
 <h4 align="center"> <span style="color:green">SSD-Mobilnet/OCR/Keras/TensorFlow/OpenCV/Camera Fusion/RaspberryPi</span></h4>
