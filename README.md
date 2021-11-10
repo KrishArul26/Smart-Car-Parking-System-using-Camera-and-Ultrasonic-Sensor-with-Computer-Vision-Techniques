@@ -10,6 +10,12 @@
  
 <p style= 'text-align: justify;'> As the current housing systems are moving towards automation, the focus on the systems used within the house is given more focus than the customer satisfaction. In addition, Home Vehicle parking system is one of the most important factors to reduce traffic and satisfy drivers. Moreover, when parking the vehicles in the apartment parking place, the driver has to open the door. So, the driver has to get out of the vehicle and open it. So the project objective is to develop a system to allow authorised vehicles in the particular apartment. Also, we used **computer vision** techniques and a **Raspberry-Pi camera** module and an **ultrasonic sensor** in order to make this system.</p>
 
+ <p align="left">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/141173464-605da526-2bd0-4444-abf5-c0b3578004e7.gif">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/141173489-9b0207c4-29cb-4a90-8df2-b55a998f0da6.gif">
+</p> 
+
+
 <h2 align="center">Componentes Used for this Project</h2>
 
  <p align="center">
