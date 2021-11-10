@@ -13,7 +13,7 @@
 <h2 align="center">Componentes Used for this Project</h2>
 
  <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/74568334/141059484-9eff0664-dbd0-40dc-bf7e-c31214645540.jpg">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/141061333-7ade7a2c-adf5-4d2e-aec9-7b535d9ecf35.jpeg">
 </p> 
 
 <h2 align="center"> Technologies Used </h2>
