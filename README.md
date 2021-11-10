@@ -38,8 +38,6 @@
 11. MQTT - As a communication Protocol
  
  ```
-  
- 
  
 <h3 align="left"> Project Limitations </h3>
 
@@ -75,4 +73,12 @@
 
  
 <p style= 'text-align: justify;'> The above figure illustrates the Automated parking system for the smart home network. First, the vehicles model, number plate, and the name of the customer who lives in the apartment are collected and stored in a CSV file. To identify whether it was a car, motorcycle or vehicle, 500 toy car images were collected and trained on the SSD mobile - net model using the GPU-4000. Also, the trained model has later uploaded on rasperryPi4 Also, the camera module and Ultrasonic sensors were connected with raspberry. Subsequently, the ultrasonic sensor continues to work to detect and determine the distance of an object in front of the camera. If this distance is less than 10 cm, this information is published to the MQTT – Protocol to a particular topic. and To start the camera, it is giving a request to  MQTT with the same topic created by the ultrasonic sensor in MQTT and receiving the message from the ultrasonic sensor. In addition, the camera takes a picture and recognises from this picture whether it is a car or a motorcycle using SSD Mobel - net. It is the licence plate information that will be extracted if the licence plate already exists on the server, then the door will be opened.</p>
+
+
+<h3 align="left">Results</h3>
+
+ <p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/141173464-605da526-2bd0-4444-abf5-c0b3578004e7.gif">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/141173489-9b0207c4-29cb-4a90-8df2-b55a998f0da6.gif">
+</p> 
 
