@@ -8,8 +8,13 @@
 
 <h3 align="left">Motivation </h3>
  
-<p style= 'text-align: justify;'> Home Vehicle parking system is one of the most important factors to reduce traffic and satisfy drivers. Moreover, when parking the vehicles in the apartment parking place, the driver has to open the door. So, the driver has to get out of the vehicle and open it.So the project objective is to develop a system to allow authorised vehicles in the particular apartment. Also, we used **computer vision** techniques and a **Raspberry-Pi camera** module and an **ultrasonic sensor** in order to make this system.</p>
+<p style= 'text-align: justify;'> As the current housing systems are moving towards automation, the focus on the systems used within the house is given more focus than the customer satisfaction. In addition, Home Vehicle parking system is one of the most important factors to reduce traffic and satisfy drivers. Moreover, when parking the vehicles in the apartment parking place, the driver has to open the door. So, the driver has to get out of the vehicle and open it. So the project objective is to develop a system to allow authorised vehicles in the particular apartment. Also, we used **computer vision** techniques and a **Raspberry-Pi camera** module and an **ultrasonic sensor** in order to make this system.</p>
 
+<h2 align="center">Componentes Used for this Project</h2>
+
+ <p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/141059484-9eff0664-dbd0-40dc-bf7e-c31214645540.jpg">
+</p> 
 
 <h2 align="center"> Technologies Used </h2>
  
@@ -28,6 +33,8 @@
  
  ```
   
+ 
+ 
 <h3 align="left"> Project Limitations </h3>
 
  
@@ -61,5 +68,5 @@
 </p> 
 
  
-<p style= 'text-align: justify;'> The above figure illustrates the process flow of this project. First, the vehicles model, number plate, and the name of the customer who lives in the apartment are collected and stored in a CSV file. To identify whether it was a car, motorcycle or vehicle, 500 toy car images were collected and trained on the SSD mobile - net model using the GPU-4000. Also, the trained model was later uploaded on rasperryPi4. Subsequently, the ultrasonic sensor continues to work to detect and determine the distance of an object in front of the camera. If this distance is less than 10 cm, this information is published to the MQTT/Topic and To start the camera, it requests MQTT with the same topic created by the ultrasonic sensor in MQTT and receiving the message from the ultrasonic sensor. In addition, the camera takes a picture and recognises from this picture whether it is a car or a motorcycle using SSD Mobel - net. It is the licence plate information that will be extracted if the licence plate already exists on the server, then the door will be opened.</p>
+<p style= 'text-align: justify;'> The above figure illustrates the Automated parking system for the smart home network. First, the vehicles model, number plate, and the name of the customer who lives in the apartment are collected and stored in a CSV file. To identify whether it was a car, motorcycle or vehicle, 500 toy car images were collected and trained on the SSD mobile - net model using the GPU-4000. Also, the trained model has later uploaded on rasperryPi4 Also, the camera module and Ultrasonic sensors were connected with raspberry. Subsequently, the ultrasonic sensor continues to work to detect and determine the distance of an object in front of the camera. If this distance is less than 10 cm, this information is published to the MQTT – Protocol to a particular topic. and To start the camera, it is giving a request to  MQTT with the same topic created by the ultrasonic sensor in MQTT and receiving the message from the ultrasonic sensor. In addition, the camera takes a picture and recognises from this picture whether it is a car or a motorcycle using SSD Mobel - net. It is the licence plate information that will be extracted if the licence plate already exists on the server, then the door will be opened.</p>
 
